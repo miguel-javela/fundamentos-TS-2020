@@ -1,0 +1,23 @@
+{
+  "name": "fundamentos-ts-2020",
+  "version": "1.0.0",
+  "description": "curso de fundamentos de TS 2020",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguel-javela/fundamentos-TS-2020.git"
+  },
+  "keywords": [
+    "javascript",
+    "TypeScript"
+  ],
+  "author": "miguel javela <migueljavela2014@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miguel-javela/fundamentos-TS-2020/issues"
+  },
+  "homepage": "https://github.com/miguel-javela/fundamentos-TS-2020#readme"
+}
