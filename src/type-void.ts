@@ -44,3 +44,5 @@ function sumNumbers(lim:number): never{
     }
 }
 sumNumbers(10);
+
+console.log('random',Math.random)
