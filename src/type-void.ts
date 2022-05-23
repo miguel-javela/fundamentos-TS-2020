@@ -19,7 +19,7 @@ showFormattedInfo({id:1, username:'migueljavela', firstname: 'miguel'});
 
 //tipo void, como tipo de dato de una variable
 let  unusuable : void;
-unusuable = null;
+//unusuable = null;
 unusuable = undefined
 
 //tipo: never
